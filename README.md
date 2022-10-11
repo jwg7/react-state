@@ -1,3 +1,5 @@
+# Of Note: Ultimately, the core of React is just taking events that are user generated and passing around the values through state variables, through props, and through function calls.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
